@@ -1,0 +1,4 @@
+﻿  module.cpp
+C:\Users\falin\Desktop\сдача\PythonAndExtensions\superfastcode\module.cpp(30,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     Создается библиотека C:\Users\falin\Desktop\сдача\PythonAndExtensions\x64\Debug\superfastcode.lib и объект C:\Users\falin\Desktop\сдача\PythonAndExtensions\x64\Debug\superfastcode.exp
+  superfastcode.vcxproj -> C:\Users\falin\Desktop\сдача\PythonAndExtensions\x64\Debug\superfastcode.pyd
